@@ -1,3 +1,3 @@
-# Quake 4 Midterm Game: Hotline Wars
-Welcome to the Mod: Hotline Wars.
-It is the combination of Hotline Miami & Advanced Wars!
+# Quake 4 Midterm Game: The Necro
+Welcome to the Mod: The Necro Mod
+You like summoning things? Welcome!
